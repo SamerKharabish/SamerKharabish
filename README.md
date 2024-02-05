@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SamerKharabish from Germany.
+# Salam & Hallo 👋
+## I’m Samer from Germany.
 - 👀 I’m interested in embedded and desktop applications.
 - 🌱 I’m currently learning GUI creation with python.
 - 💞️ I’m looking to collaborate on everything interesting. :)
-- ⚡ Fun fact: Half german, half egyptian (even though i dont look like one :P).
+- ⚡ Fun fact: I’m half german, half egyptian (even though i dont look like one :P).
+
+![Samer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamerKharabish&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamerKharabish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

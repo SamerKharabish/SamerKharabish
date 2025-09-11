@@ -1,7 +1,7 @@
 # Salam & Hallo 👋
 ## I’m Samer from Germany.
 - 👀 I’m interested in embedded and desktop applications.
-- 🌱 I’m currently learning GUI creation with python.
+- 🌱 I’m currently implementing a smart switch from scratch in C++ on an ESP32.
 - 💞️ I’m looking to collaborate on everything interesting. :)
 - ⚡ Fun fact: I’m half german, half egyptian (even though i dont look like one :P).
 
